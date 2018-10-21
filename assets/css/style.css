@@ -28,18 +28,19 @@
     .jumbotron {
         height: 100%;
     }
+    #contact {
+        height: 100vh;
+    }
 }
 
-#contact {
-    height: 100vh;
-}
+
 
 @media screen and (max-width: 768px) {
     .jumbotron {
         height: 100%;
     }
+    #contact {
+        height: 100%;
+    }
 }
 
-#contact {
-    height: 100%;
-}
