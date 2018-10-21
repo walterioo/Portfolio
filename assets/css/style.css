@@ -1,0 +1,31 @@
+
+.bg-projects {
+    background:linear-gradient(0deg, rgba(200, 200, 200, 0.8), rgba(200, 200, 200, 0.8)), url(../images/1350.jpg);
+    background-size: cover;
+}
+
+.bg-wizardry {
+    background: url(../images/bg-wizardry@2x.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}
+
+.jumbotron {
+    padding-top: 100px;
+   align-content: center;
+   height: 100vh;
+}
+
+@media screen and (max-width: 600px) {
+    .jumbotron {
+        height: 100%;
+    }
+}
+
+#contact {
+    height: 100vh;
+}
+
