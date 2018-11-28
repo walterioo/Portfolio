@@ -25,6 +25,11 @@
     max-width: 1440px;
 }
 
+.portfolio-img {
+    width: 250px;
+    height: 250px;
+}
+
 #contact {
     height: 100vh;
 }
