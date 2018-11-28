@@ -16,7 +16,7 @@
 .jumbotron {
     padding-top: 100px;
    align-content: center;
-   height: 100vh;
+   height: 102vh;
 }
 
 .nav
@@ -31,7 +31,7 @@
 }
 
 #contact {
-    height: 100vh;
+    height: 102vh;
 }
 
 @media screen and (max-width: 600px) {
@@ -40,6 +40,10 @@
     }
     #contact {
         height: 100vh;
+    }
+    img {
+        max-width: 250px ;
+        max-height: 250px;
     }
 }
 
